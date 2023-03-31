@@ -4,9 +4,9 @@
 
 ### 2021 - 2023
 #### SLAM:
-    - [Daisy](https://github.com/Daisy0402).
-    - [Valentin Charbonneau](https://github.com/valentincharbonneau)
-    - [ARTHUR Félix](https://github.com/afelix20100)
+- [Daisy](https://github.com/Daisy0402).
+- [Valentin Charbonneau](https://github.com/valentincharbonneau)
+- [ARTHUR Félix](https://github.com/afelix20100)
     - [CERCEAU Valentin](https://github.com/gamelux)
     - [VALLEE Nouma](https://github.com/noumaa)
     - [LECHAT Arnaud](https://github.com/4rn4ud)
