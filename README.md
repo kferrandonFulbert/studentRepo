@@ -5,7 +5,7 @@
 ### 2021 - 2023
 | SLAM    | SISR |
 |----------|----------|
-|- [Daisy](https://github.com/Daisy0402) | - [Julian MERSANT](https://github.com/nailex)
+|- [Daisy TACITA](https://github.com/Daisy0402) | - [Julian MERSANT](https://github.com/nailex)
 |- [Valentin Charbonneau](https://github.com/valentincharbonneau) | - [Damien Boucher](https://github.com/bdamien26)
 |- [ARTHUR Félix](https://github.com/afelix20100) | - [Bahmani hassane](https://github.com/hassanebh)
 |- [CERCEAU Valentin](https://github.com/gamelux) | - [Kilian DUNAT](https://github.com/kiliandunat)
@@ -17,4 +17,3 @@
 |- [Stanciu Nicu](https://github.com/extraneus36) |
 |- [Bryan Edeline](https://github.com/bryanedeline) |
 |- [Camille PERIER](https://github.io/camilleperier) |
-|--------------|---------------|
