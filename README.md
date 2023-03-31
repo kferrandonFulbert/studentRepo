@@ -25,4 +25,3 @@
 -- [Bahmani Houcine](https://github.com/houcinebhm)
 -- [Tristan DARREAU](https://github.com/nizoxe)
 -- [Bryan NICOLAS](https://github.com/squalala28)
-
