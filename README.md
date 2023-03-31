@@ -4,12 +4,12 @@
 
 ### 2021 - 2023
 #### SLAM:
--- [Daisy](https://github.com/Daisy0402).
--- [Valentin Charbonneau](https://github.com/valentincharbonneau)
--- [ARTHUR Félix](https://github.com/afelix20100)
--- [CERCEAU Valentin](https://github.com/gamelux)
--- [VALLEE Nouma](https://github.com/noumaa)
--- [LECHAT Arnaud](https://github.com/4rn4ud)
+    - [Daisy](https://github.com/Daisy0402).
+    - [Valentin Charbonneau](https://github.com/valentincharbonneau)
+    - [ARTHUR Félix](https://github.com/afelix20100)
+    - [CERCEAU Valentin](https://github.com/gamelux)
+    - [VALLEE Nouma](https://github.com/noumaa)
+    - [LECHAT Arnaud](https://github.com/4rn4ud)
 -- [Taskin Fatih](https://github.com/fatihtsk)
 -- [Titouan Clapier](https://github.com/titouanclapier)
 -- [Raphaël LEMAIRE](https://github.com/Raphael-Lemaire)
